@@ -1,0 +1,19 @@
+[custom0]
+binding='<Super>f'
+command='firefox'
+name='Firefox'
+
+[custom1]
+binding='<Super>t'
+command='telegram-desktop'
+name='Telegram'
+
+[custom2]
+binding='<Super>c'
+command='google-chrome'
+name='Chrome'
+
+[custom3]
+binding='<Super>r'
+command='gnome-terminal -e ranger'
+name='ranger'
